@@ -1,6 +1,6 @@
 ##
   **git创建库及代码上传**
-    `  git init
+    ` git init
       git add README.md
       git commit -m "first commit"
       git remote add origin https://github.com/Crystlem/test.git
